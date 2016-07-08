@@ -1,0 +1,12 @@
+body{
+    background-image: url(../assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.logo{
+    margin-top: 45px;
+    color: #788106;
+    background: black;
+    text-align: center
+
+}
