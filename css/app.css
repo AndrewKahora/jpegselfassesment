@@ -1,12 +1,52 @@
 body{
-    background-image: url(../assets/bg.jpg);
+/*    background-image: url(../assets/bg.jpg);*/
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+
 }
 .logo{
-    margin-top: 45px;
     color: #788106;
     background: black;
-    text-align: center
+    text-align: center;
+    padding-top: 45px;
+}
+.logo h1{
+    margin: 0;
+}
+.image1{
+    padding-top: 210px;
+    padding-left: 190px;
+}
+.image2{
+     padding-top: 100px;
+    padding-left: 90px;
+}
+.image3{
+    padding-top: 210px;
+    padding-left: 90px;
 
+}
+.categories{
+    color: white;
+    padding-left: 190px;
+}
+.jordan1 > img{
+    width: 100%;
+}
+.jordan1 {
+    position: relative;
+    margin: 0;
+
+}
+.jordan2{
+    position: absolute;
+    top: 0;
+    width: 100%
+}
+.categories2{
+    color: white;
+    padding-left: 90px;
+}
+.havell{
+    padding-left: 450px;
 }
